@@ -9,6 +9,10 @@ hr {
   border-width: 0 2px 6px 2px;
 }
 
+a[href^=mailto]:before {
+  content: none;
+}
+
 .row {
   display: flex;
   align-items: center;
