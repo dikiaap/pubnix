@@ -1,0 +1,12 @@
+body {
+  color: #1a1a1a;
+  background-color: #fafafa;
+}
+
+h1 {
+  color: #1a1a1a;
+}
+
+hr {
+  border-image: url("../img/hr-black.svg") 0 2 6 2 stretch stretch;
+}
